@@ -30,6 +30,7 @@ class PayForm(FlaskForm):
         Length(min=3, max=3)
     ])    
 
+
     submit = SubmitField('Pay Now')
 @app.route('/payment', methods=['GET', 'POST'])
 def payment():
