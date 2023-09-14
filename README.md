@@ -115,6 +115,7 @@ Creating a separate booking page for movie screenings offers several advantages:
 Improved User Experience: Users can access a dedicated booking page, making the ticket booking process more user-friendly and intuitive. Clear URL Structure: Maintaining a clear and concise URL structure enhances user understanding and navigation. Simplified Data Management: Data handling becomes more manageable, reducing the risk of errors and improving the reliability of the booking process. Enhanced Maintainability: Separating the booking functionality into its own page improves code organization and maintainability. Flexible Routing: This approach provides flexibility for future enhancements and modifications to the booking process. Conclusion
 
 The decision to create a separate booking page for movie screenings aligns with our goals of simplifying the user experience, enhancing maintainability, and improving the clarity of our URL structure. This design decision contributes to a more efficient and user-friendly QA Cinema website, ensuring a smoother booking process for our users while simplifying data management and routing on the backend.
+
 ---
 
 ## 6. Wireframe
