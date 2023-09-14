@@ -20,59 +20,137 @@ Brief description of your project.
 15. [References](#references)
 
 
-## Design Choices
 
-- **Overview**: A brief description of the design philosophy and rationale.
-- **Key Choices**: Enumerate and describe the main design decisions made and the reasoning behind them.
+## 1. Introduction
 
-## Wireframe
-KES
-- **Description**: A brief overview of the wireframe and its purpose.
-- **Link/Embed**: Link to or embed the wireframe. Tools like Figma or Adobe XD can be used to create and share these.
+Introduce the project's purpose, goals, and high-level overview.
 
-## ERD Diagram
+---
 
-- **Description**: Explain the purpose and overview of the ERD.
-- **Link/Embed**: Link to or embed the ERD. Tools like Lucidchart or draw.io can be useful here.
+## 2. Project Structure
 
-## Component Diagram
+- **Directory Structure**: Describe the organizational structure of your directories and files.
+- **Main Components**: Explain the primary components/modules of your application and their roles.
+- **Flow**: If applicable, describe the flow or sequence in which different parts of your project interact.
 
-- VMS containters Jenkins
+---
+
+## 3. Tech Stack
+
+Detail all the technologies you used in this project:
+
+- **Languages**: (e.g., Python, JavaScript)
+- **Frameworks**: (e.g., Django, React)
+- **Databases**: (e.g., MongoDB, PostgreSQL)
+- **Deployment**: (e.g., Docker, Heroku)
+- **Other Tools**: (e.g., Git, Jenkins)
+
+---
+
+## 4. Requirements Gathering
+
+Discuss the process by which you gathered requirements for your project:
+
+- **Stakeholder Interaction**: Did you interview stakeholders? Any feedback loops?
+- **User Surveys**: Any questionnaires or polls to understand user needs?
+- **Research**: Did you use existing literature or projects to inform your design?
+- **Iterations**: Describe how the requirements might have evolved over time.
+
+---
+
+## 5. Design Choices
+
+Discuss the major design decisions you made for this project:
+
+- **Philosophy**: What were your guiding principles or goals with your design?
+- **Specific Choices**: Any specific choices worth noting? Why did you make them?
+
+---
+
+## 6. Wireframe
+
+Present and describe any wireframes, mockups, or design blueprints for your project:
+
+- **[Link to Wireframe]**
+- **Design Notes**: Any specific components or flow mechanisms to highlight?
+
+---
+
+## 7. ERD Diagram
+
+Present and discuss your Entity Relationship Diagram:
+
+- **[Link/Embed of ERD Diagram]**
+- **Key Entities and Relationships**: Discuss the main tables/entities and their connections.
+
+---
+## 8. CRUD Features
+
+Detail the CRUD (Create, Read, Update, Delete) features of your project:
+
+- **Create**: How do users add new data?
+- **Read**: How is data retrieved and presented?
+- **Update**: How can data be modified?
+- **Delete**: How can data be removed? Any safeguards?
+
+---
+
+## 9. Component Diagram
+
+- **VMS Containers**: Jenkins
 - **Description**: A brief explanation of the component diagram and its significance.
 - **Link/Embed**: Link to or embed the component diagram.
 
-## Pipeline Diagram
+---
 
- - Diagrams webhooks enviroments
+## 10. Pipeline Diagram
+
+- **Diagrams**: Webhooks, environments
 - **Description**: Describe the pipeline, its stages, and its role in the CI/CD process.
 - **Link/Embed**: Link to or embed the pipeline diagram.
 
-## Testing
+---
 
-- What you did and testing analysis explains the problems you faced and how you overcame them. 
+## 11. Testing
+
+- **What You Did**: Describe the testing steps, scenarios, and any innovative methods applied.
+- **Testing Analysis**: Detail the problems you faced during testing and how you overcame them.
 - **Strategy**: Explain the testing approach, the types of tests employed (unit, integration, etc.), and any tools or frameworks used.
 - **Results**: Summarize key findings, link to detailed results or reports if available.
-  
-## Risk Assessment
+
+---
+
+## 12. Risk Assessment
 
 - **Approach**: Describe the methodology used for risk assessment.
 - **Key Risks**: Highlight the main risks identified and the proposed mitigation strategies.
 
-## Code Refactoring
+---
 
-- Made the code more efiincent or even just made it more readable is a way of refactoring so include your Screen Shots
-- **Overview**: Explain the need and benefits of the refactoring.
+## 13. Code Refactoring
+
+- **Screenshots**: Consider embedding or linking to before-and-after screenshots to showcase changes.
+- **Overview**: Explain the need and benefits of the refactoring, including aspects like efficiency improvements or readability enhancements.
 - **Key Changes**: Detail major changes made, with before-and-after code snippets where useful.
 
-## Acknowledgements
 
-- List of individuals, organizations, or tools that were instrumental in the project.
-
-## References
-
-- A list of all references, resources, or tools used during the development of the project. Preferably in a format like APA, MLA, etc.
 
 ---
+
+## 14. Acknowledgements
+
+Thank any individuals, organizations, or resources that were instrumental in the project:
+
+- Person/Resource name: Brief description or reason for acknowledgement.
+
+---
+
+## 15. References
+
+List all sources, tools, or libraries you referred to during the project:
+
+1. [Name of Source](URL) - Brief description of the source.
+
 
 [Footer or any additional notes or links you want to add]
 
