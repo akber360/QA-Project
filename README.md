@@ -51,8 +51,7 @@ Detail all the technologies you used in this project:
 
 Discuss the process by which you gathered requirements for your project:
 
-- **Stakeholder Interaction**: Did you interview stakeholders? Any feedback loops?
-- **User Surveys**: Any questionnaires or polls to understand user needs?
+
 - **Research**: Did you use existing literature or projects to inform your design?
 - **Iterations**: Describe how the requirements might have evolved over time.
 
