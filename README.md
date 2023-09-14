@@ -216,9 +216,7 @@ Regular integration and bug fixes to mitigate integration challenges.
 ---
 ## 14. Conclusion
 
-Thank any individuals, organizations, or resources that were instrumental in the project:
-
-- Person/Resource name: Brief description or reason for acknowledgement.
+The QA Cinemas training project is an opportunity to enhance technical skills and gain practical experience. By proactively addressing potential risks, focusing on collaboration and learning and ensuring a clear understanding of Devops principles, the team can maximize the benefits of this training project.
 
 ---
 ## 15. Acknowledgements
