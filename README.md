@@ -64,7 +64,7 @@ Discuss the process by which you gathered requirements for your project:
 
 Discuss the major design decisions you made for this project:
 
-###Design Decision 1: Forking Central Repository and Using Pull/Merge Requests with Pam as Request Validator
+### Design Decision 1: Forking Central Repository and Using Pull/Merge Requests with Pam as Request Validator
 
 Title: Forking Central Repository and Pull/Merge Requests
 
@@ -90,7 +90,7 @@ Reviewed and approved by [Your Name], Lead Developer, on [Insert Date]. Updates 
 
 None at this time. Conclusion: The decision to fork the central repository and utilize the pull/merge request system with Pam as the request validator enhances our version control and collaboration process. It ensures code quality, consistency, and controlled access to the central repository, aligning with our project's goals of efficient and organized development.
 
-###Design Decision 2: Separate Booking Page for QA Cinema
+### Design Decision 2: Separate Booking Page for QA Cinema
 
 Introduction
 
