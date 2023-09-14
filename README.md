@@ -3,7 +3,6 @@
 Brief description of your project.
 
 ## Table of Contents
-0.[Design Choices](#design-choices)
 1. [Design Choices](#design-choices)
 2. [Wireframe](#wireframe)
 3. [ERD Diagram](#erd-diagram)
